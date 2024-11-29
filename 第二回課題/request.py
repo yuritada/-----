@@ -7,8 +7,14 @@ class WeatherAPI:
         self.response_path = response_path
 
     def load_area_codes(self):
-        """地域コードを取得する"""
+        """地方コードを取得する"""
         with open(self.json_path, encoding="utf-8") as f:
+            area_data = json.load(f)
+        return area_data["centers"]
+    
+    def load_office_codes(self):
+        """地域コードを取得する"""
+        with open(self.response_path, encoding="utf-8") as f:
             area_data = json.load(f)
         return area_data["offices"]
 

@@ -9,10 +9,12 @@ def main(page: ft.Page):
 
     # WeatherAPIクラスの初期化
     weather_api = WeatherAPI("area.json", "response.json")
-    areas = weather_api.load_area_codes()  # 地域コードをロード
+    areas = weather_api.load_area_codes()  # 地方コードをロード
+    office = weather_api.load_area_codes()  # 地域コードをロード
 
     # コンポーネントの初期化
     selected_area_code = ft.Ref[ft.Dropdown]()
+    selected_office_code = ft.Ref[ft.Dropdown]()
     result_output = ft.Ref[ft.Text]()
 
     # 地域選択用ドロップダウン
@@ -21,6 +23,16 @@ def main(page: ft.Page):
         options=[
             ft.dropdown.Option(key, value["name"])
             for key, value in areas.items()
+        ],
+        label="地方を選択してください",
+    )
+
+    # 地域選択用ドロップダウン
+    office_dropdown = ft.Dropdown(
+        ref=selected_office_code,
+        options=[
+            ft.dropdown.Option(key, value["name"])
+            for key, value in office.items()
         ],
         label="地域を選択してください",
     )
@@ -67,6 +79,7 @@ def main(page: ft.Page):
             [
                 ft.Text("天気予報アプリ", size=30, weight="bold"),
                 area_dropdown,
+                office_dropdown,
                 fetch_button,
                 result_text,
             ],
