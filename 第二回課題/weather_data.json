@@ -1,709 +1,709 @@
 {
-"100": 
-{"morning_mark": "100.svg",
-"evening_mark": "500.svg",
-"short_name": "晴",
-"en_name": "CLEAR"}
-,
-"101": {
-"morning_mark": "101.svg" ,
-"evening_mark": "501.svg" ,
-"short_name": "晴時々曇" ,
-"en_name": "PARTLY CLOUDY"}
-,
-"102": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴一時雨" ,
-"en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS"}
-,
-"103": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴時々雨" ,
-"en_name": "CLEAR, FREQUENT SCATTERED SHOWERS"}
-,
-"104": {
-"morning_mark": "104.svg" ,
-"evening_mark": "504.svg" ,
-"short_name": "晴一時雪" ,
-"en_name": "CLEAR, SNOW FLURRIES"}
-,
-"105": {
-"morning_mark": "104.svg" ,
-"evening_mark": "504.svg" ,
-"short_name": "晴時々雪" ,
-"en_name": "CLEAR, FREQUENT SNOW FLURRIES"}
-,
-"106": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴一時雨か雪" ,
-"en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS OR SNOW FLURRIES"}
-,
-"107": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴時々雨か雪" ,
-"en_name": "CLEAR, FREQUENT SCATTERED SHOWERS OR SNOW FLURRIES"}
-,
-"108": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴一時雨か雷雨" ,
-"en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS AND/OR THUNDER"}
-,
-"110": {
-"morning_mark": "110.svg" ,
-"evening_mark": "510.svg" ,
-"short_name": "晴後時々曇" ,
-"en_name": "CLEAR, PARTLY CLOUDY LATER"}
-,
-"111": {
-"morning_mark": "110.svg" ,
-"evening_mark": "510.svg" ,
-"short_name": "晴後曇" ,
-"en_name": "CLEAR, CLOUDY LATER"}
-,
-"112": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴後一時雨" ,
-"en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS LATER"}
-,
-"113": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴後時々雨" ,
-"en_name": "CLEAR, FREQUENT SCATTERED SHOWERS LATER"}
-,
-"114": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴後雨" ,
-"en_name": "CLEAR,RAIN LATER"}
-,
-"115": {
-"morning_mark": "115.svg" ,
-"evening_mark": "515.svg" ,
-"short_name": "晴後一時雪" ,
-"en_name": "CLEAR, OCCASIONAL SNOW FLURRIES LATER"}
-,
-"116": {
-"morning_mark": "115.svg" ,
-"evening_mark": "515.svg" ,
-"short_name": "晴後時々雪" ,
-"en_name": "CLEAR, FREQUENT SNOW FLURRIES LATER"}
-,
-"117": {
-"morning_mark": "115.svg" ,
-"evening_mark": "515.svg" ,
-"short_name": "晴後雪" ,
-"en_name": "CLEAR,SNOW LATER"}
-,
-"118": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴後雨か雪" ,
-"en_name": "CLEAR, RAIN OR SNOW LATER"}
-,
-"119": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴後雨か雷雨" ,
-"en_name": "CLEAR, RAIN AND/OR THUNDER LATER"}
-,
-"120": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴朝夕一時雨" ,
-"en_name": "OCCASIONAL SCATTERED SHOWERS IN THE MORNING AND EVENING, CLEAR DURING THE DAY"}
-,
-"121": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴朝の内一時雨" ,
-"en_name": "OCCASIONAL SCATTERED SHOWERS IN THE MORNING, CLEAR DURING THE DAY"}
-,
-"122": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴夕方一時雨" ,
-"en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS IN THE EVENING"}
-,
-"123": {
-"morning_mark": "100.svg" ,
-"evening_mark": "500.svg" ,
-"short_name": "晴山沿い雷雨" ,
-"en_name": "CLEAR IN THE PLAINS, RAIN AND THUNDER NEAR MOUTAINOUS AREAS"}
-,
-"124": {
-"morning_mark": "100.svg" ,
-"evening_mark": "500.svg" ,
-"short_name": "晴山沿い雪" ,
-"en_name": "CLEAR IN THE PLAINS, SNOW NEAR MOUTAINOUS AREAS"}
-,
-"125": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴午後は雷雨" ,
-"en_name": "CLEAR, RAIN AND THUNDER IN THE AFTERNOON"}
-,
-"126": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴昼頃から雨" ,
-"en_name": "CLEAR, RAIN IN THE AFTERNOON"}
-,
-"127": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴夕方から雨" ,
-"en_name": "CLEAR, RAIN IN THE EVENING"}
-,
-"128": {
-"morning_mark": "112.svg" ,
-"evening_mark": "512.svg" ,
-"short_name": "晴夜は雨" ,
-"en_name": "CLEAR, RAIN IN THE NIGHT"}
-,
-"130": {
-"morning_mark": "100.svg" ,
-"evening_mark": "500.svg" ,
-"short_name": "朝の内霧後晴" ,
-"en_name": "FOG IN THE MORNING, CLEAR LATER"}
-,
-"131": {
-"morning_mark": "100.svg" ,
-"evening_mark": "500.svg" ,
-"short_name": "晴明け方霧" ,
-"en_name": "FOG AROUND DAWN, CLEAR LATER"}
-,
-"132": {
-"morning_mark": "101.svg" ,
-"evening_mark": "501.svg" ,
-"short_name": "晴朝夕曇" ,
-"en_name": "CLOUDY IN THE MORNING AND EVENING, CLEAR DURING THE DAY"}
-,
-"140": {
-"morning_mark": "102.svg" ,
-"evening_mark": "502.svg" ,
-"short_name": "晴時々雨で雷を伴う" ,
-"en_name": "CLEAR, FREQUENT SCATTERED SHOWERS AND THUNDER"}
-,
-"160": {
-"morning_mark": "104.svg" ,
-"evening_mark": "504.svg" ,
-"short_name": "晴一時雪か雨" ,
-"en_name": "CLEAR, SNOW FLURRIES OR OCCASIONAL SCATTERED SHOWERS"}
-,
-"170": {
-"morning_mark": "104.svg" ,
-"evening_mark": "504.svg" ,
-"short_name": "晴時々雪か雨" ,
-"en_name": "CLEAR, FREQUENT SNOW FLURRIES OR SCATTERED SHOWERS"}
-,
-"181": {
-"morning_mark": "115.svg" ,
-"evening_mark": "515.svg" ,
-"short_name": "晴後雪か雨" ,
-"en_name": "CLEAR, SNOW OR RAIN LATER"}
-,
-"200": {
-"morning_mark": "200.svg" ,
-"evening_mark": "200.svg" ,
-"short_name": "曇" ,
-"en_name": "CLOUDY"}
-,
-"201": {
-"morning_mark": "201.svg" ,
-"evening_mark": "601.svg" ,
-"short_name": "曇時々晴" ,
-"en_name": "MOSTLY CLOUDY"}
-,
-"202": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇一時雨" ,
-"en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS"}
-,
-"203": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇時々雨" ,
-"en_name": "CLOUDY, FREQUENT SCATTERED SHOWERS"}
-,
-"204": {
-"morning_mark": "204.svg" ,
-"evening_mark": "204.svg" ,
-"short_name": "曇一時雪" ,
-"en_name": "CLOUDY, OCCASIONAL SNOW FLURRIES"}
-,
-"205": {
-"morning_mark": "204.svg" ,
-"evening_mark": "204.svg" ,
-"short_name": "曇時々雪" ,
-"en_name": "CLOUDY FREQUENT SNOW FLURRIES"}
-,
-"206": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇一時雨か雪" ,
-"en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS OR SNOW FLURRIES"}
-,
-"207": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇時々雨か雪" ,
-"en_name": "CLOUDY, FREQUENT SCCATERED SHOWERS OR SNOW FLURRIES"}
-,
-"208": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇一時雨か雷雨" ,
-"en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS AND/OR THUNDER"}
-,
-"209": {
-"morning_mark": "200.svg" ,
-"evening_mark": "200.svg" ,
-"short_name": "霧" ,
-"en_name": "FOG"}
-,
-"210": {
-"morning_mark": "210.svg" ,
-"evening_mark": "610.svg" ,
-"short_name": "曇後時々晴" ,
-"en_name": "CLOUDY, PARTLY CLOUDY LATER"}
-,
-"211": {
-"morning_mark": "210.svg" ,
-"evening_mark": "610.svg" ,
-"short_name": "曇後晴" ,
-"en_name": "CLOUDY, CLEAR LATER"}
-,
-"212": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇後一時雨" ,
-"en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS LATER"}
-,
-"213": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇後時々雨" ,
-"en_name": "CLOUDY, FREQUENT SCATTERED SHOWERS LATER"}
-,
-"214": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇後雨" ,
-"en_name": "CLOUDY, RAIN LATER"}
-,
-"215": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇後一時雪" ,
-"en_name": "CLOUDY, SNOW FLURRIES LATER"}
-,
-"216": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇後時々雪" ,
-"en_name": "CLOUDY, FREQUENT SNOW FLURRIES LATER"}
-,
-"217": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇後雪" ,
-"en_name": "CLOUDY, SNOW LATER"}
-,
-"218": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇後雨か雪" ,
-"en_name": "CLOUDY, RAIN OR SNOW LATER"}
-,
-"219": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇後雨か雷雨" ,
-"en_name": "CLOUDY, RAIN AND/OR THUNDER LATER"}
-,
-"220": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇朝夕一時雨" ,
-"en_name": "OCCASIONAL SCCATERED SHOWERS IN THE MORNING AND EVENING, CLOUDY DURING THE DAY"}
-,
-"221": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇朝の内一時雨" ,
-"en_name": "CLOUDY OCCASIONAL SCCATERED SHOWERS IN THE MORNING"}
-,
-"222": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇夕方一時雨" ,
-"en_name": "CLOUDY, OCCASIONAL SCCATERED SHOWERS IN THE EVENING"}
-,
-"223": {
-"morning_mark": "201.svg" ,
-"evening_mark": "601.svg" ,
-"short_name": "曇日中時々晴" ,
-"en_name": "CLOUDY IN THE MORNING AND EVENING, PARTLY CLOUDY DURING THE DAY,"}
-,
-"224": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇昼頃から雨" ,
-"en_name": "CLOUDY, RAIN IN THE AFTERNOON"}
-,
-"225": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇夕方から雨" ,
-"en_name": "CLOUDY, RAIN IN THE EVENING"}
-,
-"226": {
-"morning_mark": "212.svg" ,
-"evening_mark": "212.svg" ,
-"short_name": "曇夜は雨" ,
-"en_name": "CLOUDY, RAIN IN THE NIGHT"}
-,
-"228": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇昼頃から雪" ,
-"en_name": "CLOUDY, SNOW IN THE AFTERNOON"}
-,
-"229": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇夕方から雪" ,
-"en_name": "CLOUDY, SNOW IN THE EVENING"}
-,
-"230": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇夜は雪" ,
-"en_name": "CLOUDY, SNOW IN THE NIGHT"}
-,
-"231": {
-"morning_mark": "200.svg" ,
-"evening_mark": "200.svg" ,
-"short_name": "曇海上海岸は霧か霧雨" ,
-"en_name": "CLOUDY, FOG OR DRIZZLING ON THE SEA AND NEAR SEASHORE"}
-,
-"240": {
-"morning_mark": "202.svg" ,
-"evening_mark": "202.svg" ,
-"short_name": "曇時々雨で雷を伴う" ,
-"en_name": "CLOUDY, FREQUENT SCCATERED SHOWERS AND THUNDER"}
-,
-"250": {
-"morning_mark": "204.svg" ,
-"evening_mark": "204.svg" ,
-"short_name": "曇時々雪で雷を伴う" ,
-"en_name": "CLOUDY, FREQUENT SNOW AND THUNDER"}
-,
-"260": {
-"morning_mark": "204.svg" ,
-"evening_mark": "204.svg" ,
-"short_name": "曇一時雪か雨" ,
-"en_name": "CLOUDY, SNOW FLURRIES OR OCCASIONAL SCATTERED SHOWERS"}
-,
-"270": {
-"morning_mark": "204.svg" ,
-"evening_mark": "204.svg" ,
-"short_name": "曇時々雪か雨" ,
-"en_name": "CLOUDY, FREQUENT SNOW FLURRIES OR SCATTERED SHOWERS"}
-,
-"281": {
-"morning_mark": "215.svg" ,
-"evening_mark": "215.svg" ,
-"short_name": "曇後雪か雨" ,
-"en_name": "CLOUDY, SNOW OR RAIN LATER"}
-,
-"300": {
-"morning_mark": "300.svg" ,
-"evening_mark": "300.svg" ,
-"short_name": "雨" ,
-"en_name": "RAIN"}
-,
-"301": {
-"morning_mark": "301.svg" ,
-"evening_mark": "701.svg" ,
-"short_name": "雨時々晴" ,
-"en_name": "RAIN, PARTLY CLOUDY"}
-,
-"302": {
-"morning_mark": "302.svg" ,
-"evening_mark": "302.svg" ,
-"short_name": "雨時々止む" ,
-"en_name": "SHOWERS THROUGHOUT THE DAY"}
-,
-"303": {
-"morning_mark": "303.svg" ,
-"evening_mark": "303.svg" ,
-"short_name": "雨時々雪" ,
-"en_name": "RAIN,FREQUENT SNOW FLURRIES"}
-,
-"304": {
-"morning_mark": "300.svg" ,
-"evening_mark": "300.svg" ,
-"short_name": "雨か雪" ,
-"en_name": "RAINORSNOW"}
-,
-"306": {
-"morning_mark": "300.svg" ,
-"evening_mark": "300.svg" ,
-"short_name": "大雨" ,
-"en_name": "HEAVYRAIN"}
-,
-"308": {
-"morning_mark": "308.svg" ,
-"evening_mark": "308.svg" ,
-"short_name": "雨で暴風を伴う" ,
-"en_name": "RAINSTORM"}
-,
-"309": {
-"morning_mark": "303.svg" ,
-"evening_mark": "303.svg" ,
-"short_name": "雨一時雪" ,
-"en_name": "RAIN,OCCASIONAL SNOW"}
-,
-"311": {
-"morning_mark": "311.svg" ,
-"evening_mark": "711.svg" ,
-"short_name": "雨後晴" ,
-"en_name": "RAIN,CLEAR LATER"}
-,
-"313": {
-"morning_mark": "313.svg" ,
-"evening_mark": "313.svg" ,
-"short_name": "雨後曇" ,
-"en_name": "RAIN,CLOUDY LATER"}
-,
-"314": {
-"morning_mark": "314.svg" ,
-"evening_mark": "314.svg" ,
-"short_name": "雨後時々雪" ,
-"en_name": "RAIN, FREQUENT SNOW FLURRIES LATER"}
-,
-"315": {
-"morning_mark": "314.svg" ,
-"evening_mark": "314.svg" ,
-"short_name": "雨後雪" ,
-"en_name": "RAIN,SNOW LATER"}
-,
-"316": {
-"morning_mark": "311.svg" ,
-"evening_mark": "711.svg" ,
-"short_name": "雨か雪後晴" ,
-"en_name": "RAIN OR SNOW, CLEAR LATER"}
-,
-"317": {
-"morning_mark": "313.svg" ,
-"evening_mark": "313.svg" ,
-"short_name": "雨か雪後曇" ,
-"en_name": "RAIN OR SNOW, CLOUDY LATER"}
-,
-"320": {
-"morning_mark": "311.svg" ,
-"evening_mark": "711.svg" ,
-"short_name": "朝の内雨後晴" ,
-"en_name": "RAIN IN THE MORNING, CLEAR LATER"}
-,
-"321": {
-"morning_mark": "313.svg" ,
-"evening_mark": "313.svg" ,
-"short_name": "朝の内雨後曇" ,
-"en_name": "RAIN IN THE MORNING, CLOUDY LATER"}
-,
-"322": {
-"morning_mark": "303.svg" ,
-"evening_mark": "303.svg" ,
-"short_name": "雨朝晩一時雪" ,
-"en_name": "OCCASIONAL SNOW IN THE MORNING AND EVENING, RAIN DURING THE DAY"}
-,
-"323": {
-"morning_mark": "311.svg" ,
-"evening_mark": "711.svg" ,
-"short_name": "雨昼頃から晴" ,
-"en_name": "RAIN, CLEAR IN THE AFTERNOON"}
-,
-"324": {
-"morning_mark": "311.svg" ,
-"evening_mark": "711.svg" ,
-"short_name": "雨夕方から晴" ,
-"en_name": "RAIN, CLEAR IN THE EVENING"}
-,
-"325": {
-"morning_mark": "311.svg" ,
-"evening_mark": "711.svg" ,
-"short_name": "雨夜は晴" ,
-"en_name": "RAIN, CLEAR IN THE NIGHT"}
-,
-"326": {
-"morning_mark": "314.svg" ,
-"evening_mark": "314.svg" ,
-"short_name": "雨夕方から雪" ,
-"en_name": "RAIN, SNOW IN THE EVENING"}
-,
-"327": {
-"morning_mark": "314.svg" ,
-"evening_mark": "314.svg" ,
-"short_name": "雨夜は雪" ,
-"en_name": "RAIN,SNOW IN THE NIGHT"}
-,
-"328": {
-"morning_mark": "300.svg" ,
-"evening_mark": "300.svg" ,
-"short_name": "雨一時強く降る" ,
-"en_name": "RAIN, EXPECT OCCASIONAL HEAVY RAINFALL"}
-,
-"329": {
-"morning_mark": "300.svg" ,
-"evening_mark": "300.svg" ,
-"short_name": "雨一時みぞれ" ,
-"en_name": "RAIN, OCCASIONAL SLEET"}
-,
-"340": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "雪か雨" ,
-"en_name": "SNOWORRAIN"}
-,
-"350": {
-"morning_mark": "300.svg" ,
-"evening_mark": "300.svg" ,
-"short_name": "雨で雷を伴う" ,
-"en_name": "RAIN AND THUNDER"}
-,
-"361": {
-"morning_mark": "411.svg" ,
-"evening_mark": "811.svg" ,
-"short_name": "雪か雨後晴" ,
-"en_name": "SNOW OR RAIN, CLEAR LATER"}
-,
-"371": {
-"morning_mark": "413.svg" ,
-"evening_mark": "413.svg" ,
-"short_name": "雪か雨後曇" ,
-"en_name": "SNOW OR RAIN, CLOUDY LATER"}
-,
-"400": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "雪" ,
-"en_name": "SNOW"}
-,
-"401": {
-"morning_mark": "401.svg" ,
-"evening_mark": "801.svg" ,
-"short_name": "雪時々晴" ,
-"en_name": "SNOW, FREQUENT CLEAR"}
-,
-"402": {
-"morning_mark": "402.svg" ,
-"evening_mark": "402.svg" ,
-"short_name": "雪時々止む" ,
-"en_name": "SNOWTHROUGHOUT THE DAY"}
-,
-"403": {
-"morning_mark": "403.svg" ,
-"evening_mark": "403.svg" ,
-"short_name": "雪時々雨" ,
-"en_name": "SNOW,FREQUENT SCCATERED SHOWERS"}
-,
-"405": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "大雪" ,
-"en_name": "HEAVYSNOW"}
-,
-"406": {
-"morning_mark": "406.svg" ,
-"evening_mark": "406.svg" ,
-"short_name": "風雪強い" ,
-"en_name": "SNOWSTORM"}
-,
-"407": {
-"morning_mark": "406.svg" ,
-"evening_mark": "406.svg" ,
-"short_name": "暴風雪" ,
-"en_name": "HEAVYSNOWSTORM"}
-,
-"409": {
-"morning_mark": "403.svg" ,
-"evening_mark": "403.svg" ,
-"short_name": "雪一時雨" ,
-"en_name": "SNOW, OCCASIONAL SCCATERED SHOWERS"}
-,
-"411": {
-"morning_mark": "411.svg" ,
-"evening_mark": "811.svg" ,
-"short_name": "雪後晴" ,
-"en_name": "SNOW,CLEAR LATER"}
-,
-"413": {
-"morning_mark": "413.svg" ,
-"evening_mark": "413.svg" ,
-"short_name": "雪後曇" ,
-"en_name": "SNOW,CLOUDY LATER"}
-,
-"414": {
-"morning_mark": "414.svg" ,
-"evening_mark": "414.svg" ,
-"short_name": "雪後雨" ,
-"en_name": "SNOW,RAIN LATER"}
-,
-"420": {
-"morning_mark": "411.svg" ,
-"evening_mark": "811.svg" ,
-"short_name": "朝の内雪後晴" ,
-"en_name": "SNOW IN THE MORNING, CLEAR LATER"}
-,
-"421": {
-"morning_mark": "413.svg" ,
-"evening_mark": "413.svg" ,
-"short_name": "朝の内雪後曇" ,
-"en_name": "SNOW IN THE MORNING, CLOUDY LATER"}
-,
-"422": {
-"morning_mark": "414.svg" ,
-"evening_mark": "414.svg" ,
-"short_name": "雪昼頃から雨" ,
-"en_name": "SNOW, RAIN IN THE AFTERNOON"}
-,
-"423": {
-"morning_mark": "414.svg" ,
-"evening_mark": "414.svg" ,
-"short_name": "雪夕方から雨" ,
-"en_name": "SNOW, RAIN IN THE EVENING"}
-,
-"425": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "雪一時強く降る" ,
-"en_name": "SNOW, EXPECT OCCASIONAL HEAVY SNOWFALL"}
-,
-"426": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "雪後みぞれ" ,
-"en_name": "SNOW, SLEET LATER"}
-,
-"427": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "雪一時みぞれ" ,
-"en_name": "SNOW, OCCASIONAL SLEET"}
-,
-"450": {
-"morning_mark": "400.svg" ,
-"evening_mark": "400.svg" ,
-"short_name": "雪で雷を伴う" ,
-"en_name": "SNOW AND THUNDER"}
+    "100": {
+    "morning_mark": "100.svg",
+    "evening_mark": "500.svg",
+    "short_name": "晴",
+    "en_name": "CLEAR"}
+    ,
+    "101": {
+    "morning_mark": "101.svg" ,
+    "evening_mark": "501.svg" ,
+    "short_name": "晴時々曇" ,
+    "en_name": "PARTLY CLOUDY"}
+    ,
+    "102": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴一時雨" ,
+    "en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS"}
+    ,
+    "103": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴時々雨" ,
+    "en_name": "CLEAR, FREQUENT SCATTERED SHOWERS"}
+    ,
+    "104": {
+    "morning_mark": "104.svg" ,
+    "evening_mark": "504.svg" ,
+    "short_name": "晴一時雪" ,
+    "en_name": "CLEAR, SNOW FLURRIES"}
+    ,
+    "105": {
+    "morning_mark": "104.svg" ,
+    "evening_mark": "504.svg" ,
+    "short_name": "晴時々雪" ,
+    "en_name": "CLEAR, FREQUENT SNOW FLURRIES"}
+    ,
+    "106": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴一時雨か雪" ,
+    "en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS OR SNOW FLURRIES"}
+    ,
+    "107": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴時々雨か雪" ,
+    "en_name": "CLEAR, FREQUENT SCATTERED SHOWERS OR SNOW FLURRIES"}
+    ,
+    "108": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴一時雨か雷雨" ,
+    "en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS AND/OR THUNDER"}
+    ,
+    "110": {
+    "morning_mark": "110.svg" ,
+    "evening_mark": "510.svg" ,
+    "short_name": "晴後時々曇" ,
+    "en_name": "CLEAR, PARTLY CLOUDY LATER"}
+    ,
+    "111": {
+    "morning_mark": "110.svg" ,
+    "evening_mark": "510.svg" ,
+    "short_name": "晴後曇" ,
+    "en_name": "CLEAR, CLOUDY LATER"}
+    ,
+    "112": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴後一時雨" ,
+    "en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS LATER"}
+    ,
+    "113": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴後時々雨" ,
+    "en_name": "CLEAR, FREQUENT SCATTERED SHOWERS LATER"}
+    ,
+    "114": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴後雨" ,
+    "en_name": "CLEAR,RAIN LATER"}
+    ,
+    "115": {
+    "morning_mark": "115.svg" ,
+    "evening_mark": "515.svg" ,
+    "short_name": "晴後一時雪" ,
+    "en_name": "CLEAR, OCCASIONAL SNOW FLURRIES LATER"}
+    ,
+    "116": {
+    "morning_mark": "115.svg" ,
+    "evening_mark": "515.svg" ,
+    "short_name": "晴後時々雪" ,
+    "en_name": "CLEAR, FREQUENT SNOW FLURRIES LATER"}
+    ,
+    "117": {
+    "morning_mark": "115.svg" ,
+    "evening_mark": "515.svg" ,
+    "short_name": "晴後雪" ,
+    "en_name": "CLEAR,SNOW LATER"}
+    ,
+    "118": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴後雨か雪" ,
+    "en_name": "CLEAR, RAIN OR SNOW LATER"}
+    ,
+    "119": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴後雨か雷雨" ,
+    "en_name": "CLEAR, RAIN AND/OR THUNDER LATER"}
+    ,
+    "120": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴朝夕一時雨" ,
+    "en_name": "OCCASIONAL SCATTERED SHOWERS IN THE MORNING AND EVENING, CLEAR DURING THE DAY"}
+    ,
+    "121": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴朝の内一時雨" ,
+    "en_name": "OCCASIONAL SCATTERED SHOWERS IN THE MORNING, CLEAR DURING THE DAY"}
+    ,
+    "122": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴夕方一時雨" ,
+    "en_name": "CLEAR, OCCASIONAL SCATTERED SHOWERS IN THE EVENING"}
+    ,
+    "123": {
+    "morning_mark": "100.svg" ,
+    "evening_mark": "500.svg" ,
+    "short_name": "晴山沿い雷雨" ,
+    "en_name": "CLEAR IN THE PLAINS, RAIN AND THUNDER NEAR MOUTAINOUS AREAS"}
+    ,
+    "124": {
+    "morning_mark": "100.svg" ,
+    "evening_mark": "500.svg" ,
+    "short_name": "晴山沿い雪" ,
+    "en_name": "CLEAR IN THE PLAINS, SNOW NEAR MOUTAINOUS AREAS"}
+    ,
+    "125": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴午後は雷雨" ,
+    "en_name": "CLEAR, RAIN AND THUNDER IN THE AFTERNOON"}
+    ,
+    "126": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴昼頃から雨" ,
+    "en_name": "CLEAR, RAIN IN THE AFTERNOON"}
+    ,
+    "127": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴夕方から雨" ,
+    "en_name": "CLEAR, RAIN IN THE EVENING"}
+    ,
+    "128": {
+    "morning_mark": "112.svg" ,
+    "evening_mark": "512.svg" ,
+    "short_name": "晴夜は雨" ,
+    "en_name": "CLEAR, RAIN IN THE NIGHT"}
+    ,
+    "130": {
+    "morning_mark": "100.svg" ,
+    "evening_mark": "500.svg" ,
+    "short_name": "朝の内霧後晴" ,
+    "en_name": "FOG IN THE MORNING, CLEAR LATER"}
+    ,
+    "131": {
+    "morning_mark": "100.svg" ,
+    "evening_mark": "500.svg" ,
+    "short_name": "晴明け方霧" ,
+    "en_name": "FOG AROUND DAWN, CLEAR LATER"}
+    ,
+    "132": {
+    "morning_mark": "101.svg" ,
+    "evening_mark": "501.svg" ,
+    "short_name": "晴朝夕曇" ,
+    "en_name": "CLOUDY IN THE MORNING AND EVENING, CLEAR DURING THE DAY"}
+    ,
+    "140": {
+    "morning_mark": "102.svg" ,
+    "evening_mark": "502.svg" ,
+    "short_name": "晴時々雨で雷を伴う" ,
+    "en_name": "CLEAR, FREQUENT SCATTERED SHOWERS AND THUNDER"}
+    ,
+    "160": {
+    "morning_mark": "104.svg" ,
+    "evening_mark": "504.svg" ,
+    "short_name": "晴一時雪か雨" ,
+    "en_name": "CLEAR, SNOW FLURRIES OR OCCASIONAL SCATTERED SHOWERS"}
+    ,
+    "170": {
+    "morning_mark": "104.svg" ,
+    "evening_mark": "504.svg" ,
+    "short_name": "晴時々雪か雨" ,
+    "en_name": "CLEAR, FREQUENT SNOW FLURRIES OR SCATTERED SHOWERS"}
+    ,
+    "181": {
+    "morning_mark": "115.svg" ,
+    "evening_mark": "515.svg" ,
+    "short_name": "晴後雪か雨" ,
+    "en_name": "CLEAR, SNOW OR RAIN LATER"}
+    ,
+    "200": {
+    "morning_mark": "200.svg" ,
+    "evening_mark": "200.svg" ,
+    "short_name": "曇" ,
+    "en_name": "CLOUDY"}
+    ,
+    "201": {
+    "morning_mark": "201.svg" ,
+    "evening_mark": "601.svg" ,
+    "short_name": "曇時々晴" ,
+    "en_name": "MOSTLY CLOUDY"}
+    ,
+    "202": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇一時雨" ,
+    "en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS"}
+    ,
+    "203": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇時々雨" ,
+    "en_name": "CLOUDY, FREQUENT SCATTERED SHOWERS"}
+    ,
+    "204": {
+    "morning_mark": "204.svg" ,
+    "evening_mark": "204.svg" ,
+    "short_name": "曇一時雪" ,
+    "en_name": "CLOUDY, OCCASIONAL SNOW FLURRIES"}
+    ,
+    "205": {
+    "morning_mark": "204.svg" ,
+    "evening_mark": "204.svg" ,
+    "short_name": "曇時々雪" ,
+    "en_name": "CLOUDY FREQUENT SNOW FLURRIES"}
+    ,
+    "206": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇一時雨か雪" ,
+    "en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS OR SNOW FLURRIES"}
+    ,
+    "207": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇時々雨か雪" ,
+    "en_name": "CLOUDY, FREQUENT SCCATERED SHOWERS OR SNOW FLURRIES"}
+    ,
+    "208": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇一時雨か雷雨" ,
+    "en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS AND/OR THUNDER"}
+    ,
+    "209": {
+    "morning_mark": "200.svg" ,
+    "evening_mark": "200.svg" ,
+    "short_name": "霧" ,
+    "en_name": "FOG"}
+    ,
+    "210": {
+    "morning_mark": "210.svg" ,
+    "evening_mark": "610.svg" ,
+    "short_name": "曇後時々晴" ,
+    "en_name": "CLOUDY, PARTLY CLOUDY LATER"}
+    ,
+    "211": {
+    "morning_mark": "210.svg" ,
+    "evening_mark": "610.svg" ,
+    "short_name": "曇後晴" ,
+    "en_name": "CLOUDY, CLEAR LATER"}
+    ,
+    "212": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇後一時雨" ,
+    "en_name": "CLOUDY, OCCASIONAL SCATTERED SHOWERS LATER"}
+    ,
+    "213": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇後時々雨" ,
+    "en_name": "CLOUDY, FREQUENT SCATTERED SHOWERS LATER"}
+    ,
+    "214": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇後雨" ,
+    "en_name": "CLOUDY, RAIN LATER"}
+    ,
+    "215": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇後一時雪" ,
+    "en_name": "CLOUDY, SNOW FLURRIES LATER"}
+    ,
+    "216": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇後時々雪" ,
+    "en_name": "CLOUDY, FREQUENT SNOW FLURRIES LATER"}
+    ,
+    "217": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇後雪" ,
+    "en_name": "CLOUDY, SNOW LATER"}
+    ,
+    "218": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇後雨か雪" ,
+    "en_name": "CLOUDY, RAIN OR SNOW LATER"}
+    ,
+    "219": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇後雨か雷雨" ,
+    "en_name": "CLOUDY, RAIN AND/OR THUNDER LATER"}
+    ,
+    "220": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇朝夕一時雨" ,
+    "en_name": "OCCASIONAL SCCATERED SHOWERS IN THE MORNING AND EVENING, CLOUDY DURING THE DAY"}
+    ,
+    "221": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇朝の内一時雨" ,
+    "en_name": "CLOUDY OCCASIONAL SCCATERED SHOWERS IN THE MORNING"}
+    ,
+    "222": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇夕方一時雨" ,
+    "en_name": "CLOUDY, OCCASIONAL SCCATERED SHOWERS IN THE EVENING"}
+    ,
+    "223": {
+    "morning_mark": "201.svg" ,
+    "evening_mark": "601.svg" ,
+    "short_name": "曇日中時々晴" ,
+    "en_name": "CLOUDY IN THE MORNING AND EVENING, PARTLY CLOUDY DURING THE DAY,"}
+    ,
+    "224": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇昼頃から雨" ,
+    "en_name": "CLOUDY, RAIN IN THE AFTERNOON"}
+    ,
+    "225": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇夕方から雨" ,
+    "en_name": "CLOUDY, RAIN IN THE EVENING"}
+    ,
+    "226": {
+    "morning_mark": "212.svg" ,
+    "evening_mark": "212.svg" ,
+    "short_name": "曇夜は雨" ,
+    "en_name": "CLOUDY, RAIN IN THE NIGHT"}
+    ,
+    "228": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇昼頃から雪" ,
+    "en_name": "CLOUDY, SNOW IN THE AFTERNOON"}
+    ,
+    "229": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇夕方から雪" ,
+    "en_name": "CLOUDY, SNOW IN THE EVENING"}
+    ,
+    "230": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇夜は雪" ,
+    "en_name": "CLOUDY, SNOW IN THE NIGHT"}
+    ,
+    "231": {
+    "morning_mark": "200.svg" ,
+    "evening_mark": "200.svg" ,
+    "short_name": "曇海上海岸は霧か霧雨" ,
+    "en_name": "CLOUDY, FOG OR DRIZZLING ON THE SEA AND NEAR SEASHORE"}
+    ,
+    "240": {
+    "morning_mark": "202.svg" ,
+    "evening_mark": "202.svg" ,
+    "short_name": "曇時々雨で雷を伴う" ,
+    "en_name": "CLOUDY, FREQUENT SCCATERED SHOWERS AND THUNDER"}
+    ,
+    "250": {
+    "morning_mark": "204.svg" ,
+    "evening_mark": "204.svg" ,
+    "short_name": "曇時々雪で雷を伴う" ,
+    "en_name": "CLOUDY, FREQUENT SNOW AND THUNDER"}
+    ,
+    "260": {
+    "morning_mark": "204.svg" ,
+    "evening_mark": "204.svg" ,
+    "short_name": "曇一時雪か雨" ,
+    "en_name": "CLOUDY, SNOW FLURRIES OR OCCASIONAL SCATTERED SHOWERS"}
+    ,
+    "270": {
+    "morning_mark": "204.svg" ,
+    "evening_mark": "204.svg" ,
+    "short_name": "曇時々雪か雨" ,
+    "en_name": "CLOUDY, FREQUENT SNOW FLURRIES OR SCATTERED SHOWERS"}
+    ,
+    "281": {
+    "morning_mark": "215.svg" ,
+    "evening_mark": "215.svg" ,
+    "short_name": "曇後雪か雨" ,
+    "en_name": "CLOUDY, SNOW OR RAIN LATER"}
+    ,
+    "300": {
+    "morning_mark": "300.svg" ,
+    "evening_mark": "300.svg" ,
+    "short_name": "雨" ,
+    "en_name": "RAIN"}
+    ,
+    "301": {
+    "morning_mark": "301.svg" ,
+    "evening_mark": "701.svg" ,
+    "short_name": "雨時々晴" ,
+    "en_name": "RAIN, PARTLY CLOUDY"}
+    ,
+    "302": {
+    "morning_mark": "302.svg" ,
+    "evening_mark": "302.svg" ,
+    "short_name": "雨時々止む" ,
+    "en_name": "SHOWERS THROUGHOUT THE DAY"}
+    ,
+    "303": {
+    "morning_mark": "303.svg" ,
+    "evening_mark": "303.svg" ,
+    "short_name": "雨時々雪" ,
+    "en_name": "RAIN,FREQUENT SNOW FLURRIES"}
+    ,
+    "304": {
+    "morning_mark": "300.svg" ,
+    "evening_mark": "300.svg" ,
+    "short_name": "雨か雪" ,
+    "en_name": "RAINORSNOW"}
+    ,
+    "306": {
+    "morning_mark": "300.svg" ,
+    "evening_mark": "300.svg" ,
+    "short_name": "大雨" ,
+    "en_name": "HEAVYRAIN"}
+    ,
+    "308": {
+    "morning_mark": "308.svg" ,
+    "evening_mark": "308.svg" ,
+    "short_name": "雨で暴風を伴う" ,
+    "en_name": "RAINSTORM"}
+    ,
+    "309": {
+    "morning_mark": "303.svg" ,
+    "evening_mark": "303.svg" ,
+    "short_name": "雨一時雪" ,
+    "en_name": "RAIN,OCCASIONAL SNOW"}
+    ,
+    "311": {
+    "morning_mark": "311.svg" ,
+    "evening_mark": "711.svg" ,
+    "short_name": "雨後晴" ,
+    "en_name": "RAIN,CLEAR LATER"}
+    ,
+    "313": {
+    "morning_mark": "313.svg" ,
+    "evening_mark": "313.svg" ,
+    "short_name": "雨後曇" ,
+    "en_name": "RAIN,CLOUDY LATER"}
+    ,
+    "314": {
+    "morning_mark": "314.svg" ,
+    "evening_mark": "314.svg" ,
+    "short_name": "雨後時々雪" ,
+    "en_name": "RAIN, FREQUENT SNOW FLURRIES LATER"}
+    ,
+    "315": {
+    "morning_mark": "314.svg" ,
+    "evening_mark": "314.svg" ,
+    "short_name": "雨後雪" ,
+    "en_name": "RAIN,SNOW LATER"}
+    ,
+    "316": {
+    "morning_mark": "311.svg" ,
+    "evening_mark": "711.svg" ,
+    "short_name": "雨か雪後晴" ,
+    "en_name": "RAIN OR SNOW, CLEAR LATER"}
+    ,
+    "317": {
+    "morning_mark": "313.svg" ,
+    "evening_mark": "313.svg" ,
+    "short_name": "雨か雪後曇" ,
+    "en_name": "RAIN OR SNOW, CLOUDY LATER"}
+    ,
+    "320": {
+    "morning_mark": "311.svg" ,
+    "evening_mark": "711.svg" ,
+    "short_name": "朝の内雨後晴" ,
+    "en_name": "RAIN IN THE MORNING, CLEAR LATER"}
+    ,
+    "321": {
+    "morning_mark": "313.svg" ,
+    "evening_mark": "313.svg" ,
+    "short_name": "朝の内雨後曇" ,
+    "en_name": "RAIN IN THE MORNING, CLOUDY LATER"}
+    ,
+    "322": {
+    "morning_mark": "303.svg" ,
+    "evening_mark": "303.svg" ,
+    "short_name": "雨朝晩一時雪" ,
+    "en_name": "OCCASIONAL SNOW IN THE MORNING AND EVENING, RAIN DURING THE DAY"}
+    ,
+    "323": {
+    "morning_mark": "311.svg" ,
+    "evening_mark": "711.svg" ,
+    "short_name": "雨昼頃から晴" ,
+    "en_name": "RAIN, CLEAR IN THE AFTERNOON"}
+    ,
+    "324": {
+    "morning_mark": "311.svg" ,
+    "evening_mark": "711.svg" ,
+    "short_name": "雨夕方から晴" ,
+    "en_name": "RAIN, CLEAR IN THE EVENING"}
+    ,
+    "325": {
+    "morning_mark": "311.svg" ,
+    "evening_mark": "711.svg" ,
+    "short_name": "雨夜は晴" ,
+    "en_name": "RAIN, CLEAR IN THE NIGHT"}
+    ,
+    "326": {
+    "morning_mark": "314.svg" ,
+    "evening_mark": "314.svg" ,
+    "short_name": "雨夕方から雪" ,
+    "en_name": "RAIN, SNOW IN THE EVENING"}
+    ,
+    "327": {
+    "morning_mark": "314.svg" ,
+    "evening_mark": "314.svg" ,
+    "short_name": "雨夜は雪" ,
+    "en_name": "RAIN,SNOW IN THE NIGHT"}
+    ,
+    "328": {
+    "morning_mark": "300.svg" ,
+    "evening_mark": "300.svg" ,
+    "short_name": "雨一時強く降る" ,
+    "en_name": "RAIN, EXPECT OCCASIONAL HEAVY RAINFALL"}
+    ,
+    "329": {
+    "morning_mark": "300.svg" ,
+    "evening_mark": "300.svg" ,
+    "short_name": "雨一時みぞれ" ,
+    "en_name": "RAIN, OCCASIONAL SLEET"}
+    ,
+    "340": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "雪か雨" ,
+    "en_name": "SNOWORRAIN"}
+    ,
+    "350": {
+    "morning_mark": "300.svg" ,
+    "evening_mark": "300.svg" ,
+    "short_name": "雨で雷を伴う" ,
+    "en_name": "RAIN AND THUNDER"}
+    ,
+    "361": {
+    "morning_mark": "411.svg" ,
+    "evening_mark": "811.svg" ,
+    "short_name": "雪か雨後晴" ,
+    "en_name": "SNOW OR RAIN, CLEAR LATER"}
+    ,
+    "371": {
+    "morning_mark": "413.svg" ,
+    "evening_mark": "413.svg" ,
+    "short_name": "雪か雨後曇" ,
+    "en_name": "SNOW OR RAIN, CLOUDY LATER"}
+    ,
+    "400": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "雪" ,
+    "en_name": "SNOW"}
+    ,
+    "401": {
+    "morning_mark": "401.svg" ,
+    "evening_mark": "801.svg" ,
+    "short_name": "雪時々晴" ,
+    "en_name": "SNOW, FREQUENT CLEAR"}
+    ,
+    "402": {
+    "morning_mark": "402.svg" ,
+    "evening_mark": "402.svg" ,
+    "short_name": "雪時々止む" ,
+    "en_name": "SNOWTHROUGHOUT THE DAY"}
+    ,
+    "403": {
+    "morning_mark": "403.svg" ,
+    "evening_mark": "403.svg" ,
+    "short_name": "雪時々雨" ,
+    "en_name": "SNOW,FREQUENT SCCATERED SHOWERS"}
+    ,
+    "405": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "大雪" ,
+    "en_name": "HEAVYSNOW"}
+    ,
+    "406": {
+    "morning_mark": "406.svg" ,
+    "evening_mark": "406.svg" ,
+    "short_name": "風雪強い" ,
+    "en_name": "SNOWSTORM"}
+    ,
+    "407": {
+    "morning_mark": "406.svg" ,
+    "evening_mark": "406.svg" ,
+    "short_name": "暴風雪" ,
+    "en_name": "HEAVYSNOWSTORM"}
+    ,
+    "409": {
+    "morning_mark": "403.svg" ,
+    "evening_mark": "403.svg" ,
+    "short_name": "雪一時雨" ,
+    "en_name": "SNOW, OCCASIONAL SCCATERED SHOWERS"}
+    ,
+    "411": {
+    "morning_mark": "411.svg" ,
+    "evening_mark": "811.svg" ,
+    "short_name": "雪後晴" ,
+    "en_name": "SNOW,CLEAR LATER"}
+    ,
+    "413": {
+    "morning_mark": "413.svg" ,
+    "evening_mark": "413.svg" ,
+    "short_name": "雪後曇" ,
+    "en_name": "SNOW,CLOUDY LATER"}
+    ,
+    "414": {
+    "morning_mark": "414.svg" ,
+    "evening_mark": "414.svg" ,
+    "short_name": "雪後雨" ,
+    "en_name": "SNOW,RAIN LATER"}
+    ,
+    "420": {
+    "morning_mark": "411.svg" ,
+    "evening_mark": "811.svg" ,
+    "short_name": "朝の内雪後晴" ,
+    "en_name": "SNOW IN THE MORNING, CLEAR LATER"}
+    ,
+    "421": {
+    "morning_mark": "413.svg" ,
+    "evening_mark": "413.svg" ,
+    "short_name": "朝の内雪後曇" ,
+    "en_name": "SNOW IN THE MORNING, CLOUDY LATER"}
+    ,
+    "422": {
+    "morning_mark": "414.svg" ,
+    "evening_mark": "414.svg" ,
+    "short_name": "雪昼頃から雨" ,
+    "en_name": "SNOW, RAIN IN THE AFTERNOON"}
+    ,
+    "423": {
+    "morning_mark": "414.svg" ,
+    "evening_mark": "414.svg" ,
+    "short_name": "雪夕方から雨" ,
+    "en_name": "SNOW, RAIN IN THE EVENING"}
+    ,
+    "425": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "雪一時強く降る" ,
+    "en_name": "SNOW, EXPECT OCCASIONAL HEAVY SNOWFALL"}
+    ,
+    "426": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "雪後みぞれ" ,
+    "en_name": "SNOW, SLEET LATER"}
+    ,
+    "427": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "雪一時みぞれ" ,
+    "en_name": "SNOW, OCCASIONAL SLEET"}
+    ,
+    "450": {
+    "morning_mark": "400.svg" ,
+    "evening_mark": "400.svg" ,
+    "short_name": "雪で雷を伴う" ,
+    "en_name": "SNOW AND THUNDER"}
 }
