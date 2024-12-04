@@ -2,7 +2,6 @@ import flet as ft
 import json
 from yazirushi import make_yazirushi
 import datetime
-from main import main
 
 with open("weather_data.json", "r", encoding="utf-8") as f:
     weather_data = json.load(f)
