@@ -1,5 +1,5 @@
 .venv
-第2回課題/__pycache__
-第2回課題/.python-version
+__pycache__
 .DS_Store
 yazirushi.svg
+.python-version
