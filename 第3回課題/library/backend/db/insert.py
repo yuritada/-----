@@ -24,3 +24,24 @@ def insert_weather_data(cursor,json,id):
         VALUES (?,?,?,?,?)
         ''',
         (id ,json["morning_mark"], json["evening_mark"], json["short_name"], json["en_name"]))
+
+def insert_weather_day_data(cursor,json):
+    cursor.execute('''
+    INSERT INTO weather_day (office_code, area_name, report_datetime, time_defines, weather_code, weather_name, wind, wave)
+    VALUES (?,?,?,?,?,?,?,?)
+    ''',
+    (json["office_code"], json["area_name"], json["report_datetime"], json["time_defines"], json["weather_code"], json["weather_name"], json["wind"], json["wave"]))
+
+def insert_weather_day_pops_data(cursor,json):
+    cursor.execute('''
+    INSERT INTO weather_day_pops (office_code, area_name, report_datetime, time_defines, pops)
+    VALUES (?,?,?,?,?)
+    ''',
+    (json["office_code"], json["area_name"], json["report_datetime"], json["time_defines"], json["pops"]))
+
+def insert_weather_day_temps_data(cursor,json):
+    cursor.execute('''
+    INSERT INTO weather_day_temps (office_code, area_name, report_datetime, time_defines, temps)
+    VALUES (?,?,?,?,?)
+    ''',
+    (json["office_code"], json["area_name"], json["report_datetime"], json["time_defines"], json["temps"]))
