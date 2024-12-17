@@ -19,11 +19,11 @@ def insert_area_data(cursor,clas,json,id):
         (clas, id, json["name"], json["enName"], json["parent"]))
 
 def insert_weather_data(cursor,json,id):
-        cursor.execute('''
-        INSERT INTO weather_code_mapping (weather_code, morning_mark, evening_mark, short_name, en_name)
-        VALUES (?,?,?,?,?)
-        ''',
-        (id ,json["morning_mark"], json["evening_mark"], json["short_name"], json["en_name"]))
+    cursor.execute('''
+    INSERT INTO weather_code_mapping (weather_code, morning_mark, evening_mark, short_name, en_name)
+    VALUES (?,?,?,?,?)
+    ''',
+    (id ,json["morning_mark"], json["evening_mark"], json["short_name"], json["en_name"]))
 
 def insert_weather_day_data(cursor,json):
     cursor.execute('''
