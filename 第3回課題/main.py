@@ -1,5 +1,5 @@
 import flet as ft
-from library.frontend.dropdown import craft_area_dropdown, craft_office_dropdown, craft_type_dropdown, craft_reporttime_dropdown,return_text_data
+from library.frontend.dropdown import craft_area_dropdown, craft_office_dropdown, craft_type_dropdown, craft_reporttime_dropdown, craft_totime_dropdown,craft_detail_area_dropdown,return_text_data
 
 
 def main(page: ft.Page):
@@ -10,6 +10,8 @@ def main(page: ft.Page):
     office_dropdown = craft_office_dropdown(page)
     type_dropdown = craft_type_dropdown(page)
     reporttime_dropdown = craft_reporttime_dropdown(page)
+    totime_dropdown = craft_totime_dropdown(page)
+    detail_area_dropdown = craft_detail_area_dropdown(page)
     page.add(
         ft.Column(
             [
@@ -22,8 +24,10 @@ def main(page: ft.Page):
                                 ft.Text("天気予報アプリ", size=30 ,weight="bold"),
                                 area_dropdown,
                                 office_dropdown,
+                                detail_area_dropdown,
                                 type_dropdown,
                                 reporttime_dropdown,
+                                totime_dropdown,
                             ],
                             scroll=True,
                         ),
