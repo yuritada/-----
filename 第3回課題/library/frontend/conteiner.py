@@ -1,21 +1,5 @@
 import flet as ft
-import json
-from yazirushi import make_yazirushi
-import datetime
 
-with open("weather_data.json", "r", encoding="utf-8") as f:
-    weather_data = json.load(f)
-
-# 天気アイコンリンク生成関数
-def create_link(weather_code,time):
-    time = datetime.datetime.strptime(time, "%H:%M:%S").time()
-    if time < datetime.time(12,0,0):
-        weather_icon_code = weather_data[weather_code]["morning_mark"]
-    elif time > datetime.time(12,0,0):
-        weather_icon_code = weather_data[weather_code]["evening_mark"]
-    return f"https://www.jma.go.jp/bosai/forecast/img/{weather_icon_code}"
-
-# 天気カード生成関数
 def create_weather_card(date, area_name, weather, weather_image_url, wind, wave):
     # 波高を表示する行
     wave_row = None
@@ -55,7 +39,7 @@ def create_weather_card(date, area_name, weather, weather_image_url, wind, wave)
         padding=10,
     )
 
-# データを利用してカード生成
+
 def generate_weather_cards(data):
     cards = []
     for key, weather_info in data.items():
@@ -76,28 +60,3 @@ def generate_weather_cards(data):
         except:
             pass
     return cards
-
-# アプリケーションで使用
-def main(page: ft.Page):
-    # JSONファイルのパス
-    with open("workbench.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    # カード生成
-    cards = generate_weather_cards(data)
-
-    # カードをページに追加
-    page.add(
-        ft.Row(
-            [
-                ft.Text("天気予報アプリ", size=30, weight="bold"),
-                ft.Column([
-                    cards
-                    ],
-                    alignment="center"),
-                ],
-        alignment="center"
-        )
-    )
-
-ft.app(target=main)
