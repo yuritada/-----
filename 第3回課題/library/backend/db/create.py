@@ -7,7 +7,7 @@ def craft_area_table(cursor):
         area_name TEXT NOT NULL, -- 地名
         area_enname TEXT, -- 地名（英語）
         area_officename TEXT, -- 気象台の名前
-        area_parents INTEGER -- “parents”項目
+        area_parents TEXT -- “parents”項目
     )
     ''')
 
